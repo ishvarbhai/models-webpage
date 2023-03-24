@@ -1,0 +1,594 @@
+@media (max-width: 1200px) {
+
+    /* header */
+    .header {
+        padding-bottom: 70px;
+    }
+
+    .header-nav .header-navbar ul li a {
+        padding: 25px;
+    }
+
+    .header .header-second .header-detail h2 {
+        font-size: 85px;
+    }
+    .header .header-second .header-detail {
+        margin-right: -165px;
+    }
+    .about .about-detail h2 {
+        font-size: 60px;
+    }
+    .about .about-image-text {
+        margin-top: 200px;
+    }
+
+    .models .down-image {
+        margin-top: 15px;
+    }
+
+    .models .side-image::before {
+        padding-top: 127%;
+    }
+
+    /* testimonial */
+
+    .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text-image-left {
+        margin-left: -88px;
+        margin-right: 17px;
+    }
+    .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text p {
+        padding-right: 20px;
+    }
+
+    .testimonial .testimonial-detail .testimonial-text001 {
+        padding: 0px 105px;
+    }
+    .testimonial .testimonial-detail {
+        gap: 0px;
+    }
+
+    /* post */
+
+    .post {
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }
+
+    .post01 .post-blur .admin-head h5 {
+        font-size: 15px;
+    }
+
+    .post02 .post-blur .admin-head h5 {
+        font-size: 15px;
+    }
+    .contact0 .contact-right {
+        padding: 30px 30px;
+    }
+    .contact0 .contact-right .location {
+        margin-bottom: 45px;
+    }
+}
+
+
+    @media (max-width: 992px) {
+
+        /* header */
+
+        .header .header-second .header-detail h2 {
+            font-size: 70px;
+        }
+
+        .header-nav .header-navbar ul li a {
+            padding: 15px;
+        }
+
+        /* about */
+
+        .about {
+            padding-top: 10px;
+            padding-bottom: 70px;
+        }
+
+        .about .about-image-text {
+            margin-top: 130px;
+        }
+
+        .about .about-image-text p {
+            padding: 20px 37px;
+            max-width: 537px;
+        }
+
+        .about .about-detail h2 {
+            font-size: 50px;
+        }
+
+        /* model */
+        .models {
+            padding-top: 55px;
+            padding-bottom: 70px;
+        }
+        .models .top-image .model-btn1 a {
+            padding: 15px 45px;
+        }
+
+        .models .down-image {
+            margin-top: 15px;
+        }
+
+        .models .side-image::before {
+            padding-top: 127%;
+        }
+
+        /* portfolio */
+
+        .portfolio {
+            padding-top: 60px;
+            padding-bottom: 60px;
+        }
+
+        /* testimonial */
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text p {
+            padding-right: 35px;
+        }
+        /* post */
+        .post01 .post-blur .admin {
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+
+        .post02 .post-blur .admin {
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+
+        .post01 .post-blur .admin-head {
+            margin-left: 10px;
+        }
+
+        .post02 .post-blur .admin-head {
+            margin-left: 10px;
+        }
+
+        .post01 .post-blur .admin-btn {
+            margin-bottom: 15px;
+            margin-left: 10px;
+        }
+
+        .post02 .post-blur .admin-btn {
+            margin-bottom: 15px;
+            margin-left: 10px;
+        }
+
+        /* contact0 */
+
+        .contact0 .contact-right {
+            padding: 75px 45px;
+        }
+        .contact0 .contact-right .location {
+            margin-bottom: 45px;
+        }
+
+        /* footer */
+
+        .footer .model-footer {
+            margin-top: 30px;
+            margin-left: 10px;
+        }
+        .footer .contact-info1 h4 {
+            margin-top: 65px;
+        }
+        .footer .Subscribe h4 {
+            margin-top: 65px;
+        }
+        .footer .copy p {
+            margin-left: 10px;
+        }
+        .footer {
+            margin-top: 50px;
+        }
+        
+        
+    }
+
+    @media (max-width: 768px) {
+
+        /* header */
+        .header .logo {
+            margin: 25px 0;
+        }
+        .header-nav .header-navbar ul {
+            display: block;
+        }
+
+        .header-nav .bar {
+            display: block;
+        }
+
+        .header-nav {
+            justify-content: end;
+            gap: 20px;
+        }
+        .header .header-second .header-detail {
+            margin-right: -125px;
+        }
+        .header .header-second .header-detail h2 {
+            font-size: 50px;
+        }
+
+        .header .header-second .header-detail .btn1 button {
+            height: 50px;
+            width: 135px;
+        }
+        .about {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        .about .about-image-text {
+            margin-top: 25px;
+            margin-left: -18px;
+        }
+
+        .about .about-image-text p {
+            padding: 20px 37px;
+            text-align: justify;
+            max-width: 100%;
+        }
+
+        .about .about-image-text {
+            margin-top: 25px;
+        }
+        .services .services-head p {
+            margin-bottom: 35px;
+        }
+        .services {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .services .services-head h2 {
+            margin-bottom: 10px;
+        }
+
+        .models .down-image {
+            margin-top: 15px;
+        }
+
+        .models .side-image::before {
+            padding-top: 129%;
+        }
+
+        /* model */
+
+        .models .model {
+            gap: 150px;
+        }
+
+        .models .top-image .model-btn1 a {
+            padding: 3px 0px;
+        }
+
+        .models .down-image .model-btn1 a {
+            padding: 3px 0px;
+        }
+
+        .models .side-image .model-btn1 a {
+            padding: 3px 0px;
+        }
+
+        .models {
+            padding-top: 30px;
+            padding-bottom: 55px;
+        }
+
+        .contact .contact01 h2 {
+            margin-bottom: 20px;
+        }
+        .contact .contact01 h2 {
+            font-size: 55px;
+        }
+
+        .contact {
+            padding-top: 35px;
+            padding-bottom: 35px;
+        }
+
+        /* portfolio */
+        .portfolio {
+            padding-top: 25px;
+            padding-bottom: 40px;
+        }
+        .portfolio .portfolio-grid {
+            margin-top: 30px;
+            text-align: center;
+        }
+        .portfolio .portfolio-head h2 {
+            margin-bottom: 5px;
+        }
+        .portfolio .portfolio-head p {
+            margin-bottom: 15px;
+        }
+
+        /* testimonial */
+
+        .testimonial .testimonial-head h2 {
+            text-align: center;
+            font-size: 64px;
+            margin-bottom: 80px;
+        }
+
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text {
+            flex-direction: column;
+            transform: skewX(0deg);
+        }
+
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text-image-left {
+            margin: 10px auto;
+            transform: skewX(0deg);
+        }
+
+        .testimonial .testimonial-detail {
+            gap: 25px;
+        }
+
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text {
+            padding: 0px 20px 10px;
+            margin: 0px 0px;
+            transform: skewX(0deg);
+        }
+
+        .testimonial .testimonial-head h2 {
+            margin-bottom: 30px;
+        }
+
+        .testimonial {
+            padding-top: 20px;
+            padding-bottom: 40px;
+        }
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text-image-right {
+            margin-top: 330px;
+        }
+
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text p {
+            padding-right: 20px;
+        }
+        .testimonial .testimonial-detail .testimonial-text001 {
+            padding: 0px 20px;
+        }
+
+        /* contact0 */
+
+        .contact0 .contact-right {
+           margin-top: 20px;
+        }
+        .post01 .post-blur {
+            text-align: justify;
+            margin: auto;
+        }
+        .post01 {
+            text-align: center;
+        }
+        .post02 .post-blur {
+            text-align: justify;
+            margin: auto;
+        }
+        .post02 {
+            text-align: center;
+        }
+        /* footer */
+
+        .footer .model-footer p {
+            margin-bottom: 0px;
+            max-width: 100%;
+        }
+        .footer .contact-info1 h4 {
+            margin-top: 30px;
+        }
+        .footer .Subscribe h4 {
+            margin-top: 20px;
+        }
+        .footer .model-footer {
+            margin-left: 0px;
+        }
+        .footer .copy p {
+            margin-left: 0px;
+            margin-top: 15px;
+        }
+    }
+
+    @media (max-width: 576px) {
+
+        /* header */
+        .header .logo h1 {
+            font-size: 20px;
+        }
+        .header .logo {
+            margin: 15px 0;
+        }
+        .header {
+            padding-bottom: 5px;
+        }
+        .header .header-second {
+            flex-wrap: wrap;
+            justify-content: center;
+            text-align: center;
+        }
+        .header .header-second .header-detail {
+            margin-right: 0px;
+        }
+        .header .header-second .header-detail h2 {
+            font-size: 25px;
+            margin-bottom: 5px;      
+        }
+        .header .header-second .header-detail .btn1 button {
+            font-size: 9px;
+            height: 30px;
+            width: 85px;
+            margin-bottom: 10px;
+        }
+
+        .header .header-detail .btn1 button {
+            height: 30px;
+            width: 70px;
+            font-size: 8px;
+        }
+        .header .page {
+            font-size: 15px;
+            margin-top: 15px;
+            color: black;
+        }
+        .about .about-detail h2 {
+            font-size: 35px;
+            margin-bottom: 5px;
+        }
+        .about {
+            padding-top: 5px;
+            padding-bottom: 10px;
+        }
+        .about .about-image .image {
+            margin-top: 5px;
+        }
+        .about .about-image .btn2 {
+            margin-top: -20px;
+        }
+        .about .about-image .btn2 button {
+            height: 35px;
+            width: 145px;
+        }
+        .about .about-image-text p {
+            padding: 0px 20px;
+        }
+
+        .services {
+            padding-top: 20px;
+            padding-bottom: 15px;
+        }
+        .services .services-head h2 {
+            font-size: 35px;
+            margin-bottom: 5px;
+        }
+        .services .services-head p {
+            margin-bottom: 30px;
+
+        }
+        .models {
+            padding-top: 20px;
+            padding-bottom: 30px;
+        }
+
+        .models .model .model-head p {
+            margin-bottom: 20px;
+        }
+
+        .models .model .model-head h2 {
+            font-size: 35px;
+            margin-bottom: 15px;
+        }
+        .models .model .model-page{
+            margin-bottom: 20px;
+        }
+
+        .models .model {
+            flex-wrap: wrap;
+            gap: 0px;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .models .top-image {
+            margin-bottom: 15px;
+        }
+
+        .models .down-image {
+            margin-top: 0px;
+        }
+
+        .models .side-image {
+            margin-top: 15px;
+        }
+        .portfolio {
+            padding-top: 20px;
+            padding-bottom: 35px;
+        }
+        .portfolio .portfolio-head h2 {
+            font-size: 35px;
+            margin-bottom: 15px;
+        }
+        .portfolio .portfolio-head p {
+            margin-bottom: 0px;
+        }
+        .post .post-head h2 {
+            font-size: 35px;
+            margin-bottom: 5px;
+        }
+        .post {
+            padding-top: 20px;
+            padding-bottom: 30px;
+        }
+        .contact .contact01 h2 {
+            font-size: 25px;
+            margin-bottom: 15px;
+        }
+
+        .contact {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+
+        .contact .contact01 .btn1 button {
+            padding: 3px 10px;
+        }
+
+        .testimonial .testimonial-detail .next {
+            display: none;
+        }
+
+        .testimonial .testimonial-detail .prev {
+            display: none;
+        }
+
+        .testimonial .testimonial-head h2 {
+            font-size: 35px;
+        }
+
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text-image-right {
+            margin-top: 470px;
+        }
+        .testimonial .testimonial-detail .testimonial-text001 {
+            padding: 0px 0px;
+        }
+        .testimonial .testimonial-detail .testimonial-text001 .testimonial-text .text p {
+            padding-right: 0px;
+        }
+
+        /* contact0 */
+
+        .contact0 .contact-right {
+            padding: 15px 15px;
+        }
+        .contact0 {
+            padding-top: 25px;
+            padding-bottom: 40px;
+        }
+        .contact0 .contact-info h2 {
+            font-size: 35px;
+
+        }
+        .contact0 .contact-right .location {
+            margin-bottom: 20px;
+        }
+        .contact0 .contact-right .location p {
+            font-size: 13px;
+        }
+        .contact0 .contact-info .form1 .name input {
+            height: 45px;
+        }
+        .contact0 .contact-info .contact-btn button {
+            height: 40px;
+            width: 140px;
+        }
+        .contact0 .contact-right .location i {
+            font-size: 20px;
+        }
+        .footer {
+            margin-top: 20px;
+        }
+   }
